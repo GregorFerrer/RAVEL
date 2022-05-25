@@ -1,0 +1,15 @@
+D:\proyecto C sharp\RAVEL\RAVEL\bin\Debug\RAVEL.exe.config
+D:\proyecto C sharp\RAVEL\RAVEL\bin\Debug\RAVEL.exe
+D:\proyecto C sharp\RAVEL\RAVEL\bin\Debug\RAVEL.pdb
+D:\proyecto C sharp\RAVEL\RAVEL\obj\Debug\RAVEL.csprojAssemblyReference.cache
+D:\proyecto C sharp\RAVEL\RAVEL\obj\Debug\RAVEL.Form1.resources
+D:\proyecto C sharp\RAVEL\RAVEL\obj\Debug\RAVEL.Form2.resources
+D:\proyecto C sharp\RAVEL\RAVEL\obj\Debug\RAVEL.Form3.resources
+D:\proyecto C sharp\RAVEL\RAVEL\obj\Debug\RAVEL.Properties.Resources.resources
+D:\proyecto C sharp\RAVEL\RAVEL\obj\Debug\RAVEL.csproj.GenerateResource.cache
+D:\proyecto C sharp\RAVEL\RAVEL\obj\Debug\RAVEL.csproj.CoreCompileInputs.cache
+D:\proyecto C sharp\RAVEL\RAVEL\obj\Debug\RAVEL.exe
+D:\proyecto C sharp\RAVEL\RAVEL\obj\Debug\RAVEL.pdb
+D:\proyecto C sharp\RAVEL\RAVEL\obj\Debug\RAVEL.Form4.resources
+D:\proyecto C sharp\RAVEL\RAVEL\obj\Debug\RAVEL.Form5.resources
+D:\proyecto C sharp\RAVEL\RAVEL\obj\Debug\RAVEL.Form6.resources
